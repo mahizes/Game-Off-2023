@@ -8,26 +8,22 @@ This repository contains the source code and assets for our entry in the Game Of
 
 ### Prerequisites
 
-- Unity 2021.x or later
+- Unity LTS release 2022.3.12f1
 - Git
 
 ### Installation
 
 1. Clone the repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/mahizes/Game-Off-2023.git
-\`\`\`
+```
 
 2. Open the project in Unity
 
 ### How to Play
 
 Instructions on how to play the game will be added as the project progresses.
-
-## Contributing
-
-We're open to contributions. If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## License
 
