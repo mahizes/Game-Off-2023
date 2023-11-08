@@ -17,7 +17,7 @@ public class CameraView : MonoBehaviour
     {
 
     }
-
+    //XXX comment by @linkft: we should just use cinemachine framing transposer instead, and change the distance value of virtual camera with mouse wheel
     void LateUpdate()
     {
         if (!target)
